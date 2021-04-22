@@ -1,0 +1,23 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Citation Weddings
+
+## Skin
+
+### Multiline Text
+HTMLText_98B91736_88D9_DD3B_41DB_D7EA14771039.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:55px;font-family:'Adobe Caslon Pro';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_98B91736_88D9_DD3B_41DB_D7EA14771039_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:'Adobe Caslon Pro';">{{title}}</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_48E539E9_43D9_19D1_4195_92CACB86A383.label = Merchant Suite - Ceremony
+panorama_491630E5_43DE_E7D1_41C1_5732EF35DC3F.label = Portico
+panorama_4916651E_43D9_EE73_41D0_4033D69BA3FA.label = Taverne Bar - Dance Floor
+panorama_49177A14_43D9_1A77_41CB_E4696FFCC93F.label = Taverne Bar
+panorama_4933659C_43D9_6E70_41D0_B16FE19E74D3.label = Merchant Suite - Top Table
