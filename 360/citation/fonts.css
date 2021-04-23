@@ -3,22 +3,26 @@
    src: url("fonts/ACaslonPro-Italic.woff") format("woff"), url("fonts/ACaslonPro-Italic.eot") format("embedded-opentype"), url("fonts/ACaslonPro-Italic.otf") format("opentype");
    font-weight: normal;
    font-style: italic;
+   font-size: 10px !important;
 }
 @font-face {
    font-family: "Adobe Caslon Pro";
    src: url("fonts/ACaslonPro-Regular.woff") format("woff"), url("fonts/ACaslonPro-Regular.eot") format("embedded-opentype"), url("fonts/ACaslonPro-Regular.otf") format("opentype");
    font-weight: normal;
    font-style: normal;
+   font-size: 10px !important;
 }
 @font-face {
    font-family: "Adobe Caslon Pro";
    src: url("fonts/ACaslonPro-Semibold.woff") format("woff"), url("fonts/ACaslonPro-Semibold.eot") format("embedded-opentype"), url("fonts/ACaslonPro-Semibold.otf") format("opentype");
    font-weight: bold;
    font-style: normal;
+   font-size: 10px !important;
 }
 @font-face {
    font-family: "Adobe Caslon Pro";
    src: url("fonts/ACaslonPro-SemiboldItalic.woff") format("woff"), url("fonts/ACaslonPro-SemiboldItalic.eot") format("embedded-opentype"), url("fonts/ACaslonPro-SemiboldItalic.otf") format("opentype");
    font-weight: bold;
    font-style: italic;
+   font-size: 10px !important;
 }
